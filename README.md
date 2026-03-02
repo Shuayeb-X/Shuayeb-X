@@ -49,56 +49,24 @@
 
 
 
-
-
-<p align="center">
-
-<a href="https://github.com/rinviriti">
+<a href="https://github.com/Shuayeb-X">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
+       alt="github"
        height="40"
-       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
+       style="border:2px solid #00f0ff;
               border-radius:50%;
-              padding:8px;
-              margin:8px;" />
+              padding:6px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/rinvi-jaman/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-       height="40"
-       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
-              border-radius:50%;
-              padding:8px;
-              margin:8px;" />
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shuayeb-X)  
 
-<a href="https://www.facebook.com/rinvijamanriti">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-       height="40"
-       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
-              border-radius:50%;
-              padding:8px;
-              margin:8px;" />
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shuayeb-hasan/) 
 
-<a href="https://www.instagram.com/rinviiriti/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-       height="40"
-       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
-              border-radius:50%;
-              padding:8px;
-              margin:8px;" />
-</a>
 
-<a href="https://www.youtube.com/channel/rinvijamanriti">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
-       height="40"
-       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
-              border-radius:50%;
-              padding:8px;
-              margin:8px;" />
-</a>
 
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shuayeb_afridi/) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/) 
 
 
 
