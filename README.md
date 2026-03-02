@@ -46,73 +46,20 @@
 
 💡 I believe in continuous learning and hands-on practice, continuously expanding my skills in cloud technologies and DevOps tools through real-world projects.
 
+<p>
 
-
-<p align="center">
-
-<a href="https://github.com/Shuayeb-X">
-  <img src="https://cdn.simpleicons.org/github/ffffff"
-       width="30"
-       style="background-color:#0f172a;
-              padding:12px;
-              border-radius:50%;
-              border:2px solid #00f0ff;
-              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
-              margin:10px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/shuayeb-hasan/">
-  <img src="https://cdn.simpleicons.org/linkedin/ffffff"
-       width="30"
-       style="background-color:#0f172a;
-              padding:12px;
-              border-radius:50%;
-              border:2px solid #00f0ff;
-              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
-              margin:10px;" />
-</a>
-
-<a href="https://www.instagram.com/shuayeb_afridi/">
-  <img src="https://cdn.simpleicons.org/instagram/ffffff"
-       width="30"
-       style="background-color:#0f172a;
-              padding:12px;
-              border-radius:50%;
-              border:2px solid #00f0ff;
-              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
-              margin:10px;" />
-</a>
-
-<a href="https://www.youtube.com/channel/">
-  <img src="https://cdn.simpleicons.org/youtube/ffffff"
-       width="30"
-       style="background-color:#0f172a;
-              padding:12px;
-              border-radius:50%;
-              border:2px solid #00f0ff;
-              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
-              margin:10px;" />
-</a>
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shuayeb-X)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shuayeb-hasan/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shuayeb_afridi/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/) 
 </p>
 
 ## 🚀 Skills & Technologies
-
-
 💻 Languages: C, C++, Python, Java 
-
 🌐 Web Technologies: HTML, CSS  
-
 🗄 Database: MySQL  
-
 🌐 Networking: TCP/IP, OSI Model, Subnetting, DNS, HTTP/HTTPS, Routing & Switching  
-
 🔐 Security Tools: Nmap, Wireshark, Linux CLI, Basic Cryptography & Hashing  
-
 🛠 Dev Tools: Git, GitHub, GitLab, Jenkins  
-
 🐧 Operating System: Linux  
-
 ## ⚡ DevOps Stack
 
 <p align="">
