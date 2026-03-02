@@ -51,17 +51,11 @@
 
 <p align="center">
 
- <a href="https://github.com/Shuayeb-X">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
-         width="30"
-         style="background-color:#0f172a;
-                padding:10px;
-                border-radius:50%;
-                border:2px solid #00f0ff;
-                box-shadow:0 0 8px #00f0ff, 0 0 15px #00f0ff;
-                filter:invert(1);
-                margin:8px;" />
-  </a>
+<a href="https://github.com/yourusername">
+  <img src="https://cdn.simpleicons.org/github/ffffff"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shuayeb-X)  
 
