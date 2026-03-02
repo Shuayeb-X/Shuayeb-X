@@ -48,37 +48,37 @@
 <p align="">
 
 <a href="https://github.com/yourusername">
-  <img src="https://cdn.simpleicons.org/github/ffffff"
+  <img src="https://cdn.simpleicons.org/github/181717"
        width="30"
        style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
-
 
 <a href="https://instagram.com/yourprofile">
-  <img src="https://cdn.simpleicons.org/instagram/ffffff"
+  <img src="https://cdn.simpleicons.org/instagram/E4405F"
        width="30"
        style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
+
 <a href="https://linkedin.com/in/shuayeb-hasan">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
        width="30"
        style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
 
 <a href="https://youtube.com/@yourchannel">
-  <img src="https://cdn.simpleicons.org/youtube/ffffff"
+  <img src="https://cdn.simpleicons.org/youtube/FF0000"
        width="30"
        style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
 
 <a href="https://gitlab.com/yourusername">
-  <img src="https://cdn.simpleicons.org/gitlab/ffffff"
+  <img src="https://cdn.simpleicons.org/gitlab/FCA121"
        width="30"
        style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
 
 <a href="https://yourjenkinsdomain.com">
-  <img src="https://cdn.simpleicons.org/jenkins/ffffff"
+  <img src="https://cdn.simpleicons.org/jenkins/D24939"
        width="30"
        style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
