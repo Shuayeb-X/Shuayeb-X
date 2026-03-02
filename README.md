@@ -10,18 +10,20 @@
 <p align="center">
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Shuayeb-X/Shuayeb-X/main/readme.png"
-     width="100%"
-     style="
-       border-radius:20px;
-       border:3px solid #00f0ff; /* Neon cyan */
-       box-shadow:
-         0 0 10px #00f0ff,
-         0 0 20px #00f0ff,
-         0 0 40px rgba(0, 240, 255, 0.8);
-     " />
-
+  <img src="https://raw.githubusercontent.com/Shuayeb-X/Shuayeb-X/main/readme.png"
+       alt="banner"
+       style="
+         width:100%;
+         max-width:100%;
+         height:auto;
+         display:block;
+         border-radius:20px;
+         border:3px solid #00f0ff;
+         box-shadow:
+           0 0 10px #00f0ff,
+           0 0 20px #00f0ff,
+           0 0 40px rgba(0,240,255,0.8);
+       " />
 </p>
 
 </p>
