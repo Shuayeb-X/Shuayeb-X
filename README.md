@@ -48,29 +48,51 @@
 
 
 
-
 <p align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Shuayeb-X">
   <img src="https://cdn.simpleicons.org/github/ffffff"
        width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+       style="background-color:#0f172a;
+              padding:12px;
+              border-radius:50%;
+              border:2px solid #00f0ff;
+              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
+              margin:10px;" />
 </a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shuayeb-X)  
+<a href="https://www.linkedin.com/in/shuayeb-hasan/">
+  <img src="https://cdn.simpleicons.org/linkedin/ffffff"
+       width="30"
+       style="background-color:#0f172a;
+              padding:12px;
+              border-radius:50%;
+              border:2px solid #00f0ff;
+              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
+              margin:10px;" />
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shuayeb-hasan/) 
+<a href="https://www.instagram.com/shuayeb_afridi/">
+  <img src="https://cdn.simpleicons.org/instagram/ffffff"
+       width="30"
+       style="background-color:#0f172a;
+              padding:12px;
+              border-radius:50%;
+              border:2px solid #00f0ff;
+              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
+              margin:10px;" />
+</a>
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shuayeb_afridi/) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/) 
-
-
-
-
-
+<a href="https://www.youtube.com/channel/">
+  <img src="https://cdn.simpleicons.org/youtube/ffffff"
+       width="30"
+       style="background-color:#0f172a;
+              padding:12px;
+              border-radius:50%;
+              border:2px solid #00f0ff;
+              box-shadow:0 0 8px #00f0ff, 0 0 16px #00f0ff;
+              margin:10px;" />
+</a>
 
 </p>
 
