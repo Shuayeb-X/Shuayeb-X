@@ -45,33 +45,54 @@
 🌱Currently expanding my expertise in automation, cloud platforms, and modern DevOps practices. 
 
 💡 I believe in continuous learning and hands-on practice, continuously expanding my skills in cloud technologies and DevOps tools through real-world projects.
+
+
+
+
+
+
 <p align="center">
 
 <a href="https://github.com/yourusername">
-  <img src="https://cdn.simpleicons.org/github" width="30" />
+  <img src="https://cdn.simpleicons.org/github"
+       width="36"
+       style="border-radius:50%; padding:8px; margin:6px;" />
 </a>
 
 <a href="https://instagram.com/yourprofile">
-  <img src="https://cdn.simpleicons.org/instagram" width="30" />
+  <img src="https://cdn.simpleicons.org/instagram"
+       width="36"
+       style="border-radius:50%; padding:8px; margin:6px;" />
 </a>
 
 <a href="https://linkedin.com/in/shuayeb-hasan">
-  <img src="https://cdn.simpleicons.org/linkedin" width="30" />
+  <img src="https://cdn.simpleicons.org/linkedin"
+       width="36"
+       style="border-radius:50%; padding:8px; margin:6px;" />
 </a>
 
 <a href="https://youtube.com/@yourchannel">
-  <img src="https://cdn.simpleicons.org/youtube" width="30" />
+  <img src="https://cdn.simpleicons.org/youtube"
+       width="36"
+       style="border-radius:50%; padding:8px; margin:6px;" />
 </a>
 
 <a href="https://gitlab.com/yourusername">
-  <img src="https://cdn.simpleicons.org/gitlab" width="30" />
+  <img src="https://cdn.simpleicons.org/gitlab"
+       width="36"
+       style="border-radius:50%; padding:8px; margin:6px;" />
 </a>
 
 <a href="https://yourjenkinsdomain.com">
-  <img src="https://cdn.simpleicons.org/jenkins" width="30" />
+  <img src="https://cdn.simpleicons.org/jenkins"
+       width="36"
+       style="border-radius:50%; padding:8px; margin:6px;" />
 </a>
 
 </p>
+
+
+
 
 
 
