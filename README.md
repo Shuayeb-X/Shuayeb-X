@@ -56,31 +56,46 @@
 <a href="https://github.com/rinviriti">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
        height="40"
-       style="border-radius:50%; padding:8px; margin:6px;" />
+       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
+              border-radius:50%;
+              padding:8px;
+              margin:8px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/rinvi-jaman/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
        height="40"
-       style="border-radius:50%; padding:8px; margin:6px;" />
+       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
+              border-radius:50%;
+              padding:8px;
+              margin:8px;" />
 </a>
 
 <a href="https://www.facebook.com/rinvijamanriti">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
        height="40"
-       style="border-radius:50%; padding:8px; margin:6px;" />
+       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
+              border-radius:50%;
+              padding:8px;
+              margin:8px;" />
 </a>
 
 <a href="https://www.instagram.com/rinviiriti/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
        height="40"
-       style="border-radius:50%; padding:8px; margin:6px;" />
+       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
+              border-radius:50%;
+              padding:8px;
+              margin:8px;" />
 </a>
 
 <a href="https://www.youtube.com/channel/rinvijamanriti">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
        height="40"
-       style="border-radius:50%; padding:8px; margin:6px;" />
+       style="filter: invert(1) sepia(1) saturate(5) hue-rotate(160deg);
+              border-radius:50%;
+              padding:8px;
+              margin:8px;" />
 </a>
 
 </p>
