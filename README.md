@@ -1,16 +1,147 @@
-## Hi there 👋
+<!-- ================= PROFILE SECTION ================= -->
 
-<!--
-**Shuayeb-X/Shuayeb-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<!-- 🔴 PROFILE PICTURE -->
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+<p align="center">
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shuayeb-X/Shuayeb-X/main/readme.png"
+     width="100%"
+     style="
+       border-radius:20px;
+       border:3px solid #00f0ff; /* Neon cyan */
+       box-shadow:
+         0 0 10px #00f0ff,
+         0 0 20px #00f0ff,
+         0 0 40px rgba(0, 240, 255, 0.8);
+     " />
+
+</p>
+
+</p>
+
+</p>
+
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=00F0FF&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;DEVOPS+MODE:+ACTIVE;Cloud+%7C+Automation+%7C+Containers;Welcome+To+My+Github+Profile+🔵" />
+</p>
+
+<h3>Hi 👋, This is Shuayeb</h3>
+
+🚀 Aspiring **DevOps Engineer** with a strong foundation in Computer Networking.
+
+⚙️ Passionate about automation, system reliability, and continuous integration & deployment.
+
+🌱Currently expanding my expertise in automation, cloud platforms, and modern DevOps practices. 
+
+💡 I believe in continuous learning and hands-on practice, continuously expanding my skills in cloud technologies and DevOps tools through real-world projects.
+<p align="">
+
+<a href="https://github.com/yourusername">
+  <img src="https://cdn.simpleicons.org/github/ffffff"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
+
+
+<a href="https://instagram.com/yourprofile">
+  <img src="https://cdn.simpleicons.org/instagram/ffffff"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
+<a href="https://linkedin.com/in/shuayeb-hasan">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
+
+<a href="https://youtube.com/@yourchannel">
+  <img src="https://cdn.simpleicons.org/youtube/ffffff"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
+
+<a href="https://gitlab.com/yourusername">
+  <img src="https://cdn.simpleicons.org/gitlab/ffffff"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
+
+<a href="https://yourjenkinsdomain.com">
+  <img src="https://cdn.simpleicons.org/jenkins/ffffff"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+</a>
+
+</p>
+
+
+
+</p>
+
+## 🚀 Skills & Technologies
+
+
+💻 Languages: C, C++, Python, Java 
+
+🌐 Web Technologies: HTML, CSS  
+
+🗄 Database: MySQL  
+
+🌐 Networking: TCP/IP, OSI Model, Subnetting, DNS, HTTP/HTTPS, Routing & Switching  
+
+🔐 Security Tools: Nmap, Wireshark, Linux CLI, Basic Cryptography & Hashing  
+
+🛠 Dev Tools: Git, GitHub, GitLab, Jenkins  
+
+🐧 Operating System: Linux  
+
+## ⚡ DevOps Stack
+
+<p align="">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,jenkins,git,github,linux,terraform,ansible" />
+</p>
+<br>
+==================================================================================================================================================================================================
+<h2 >🚀 Technical Skills</h2>
+
+<p align="center">
+
+☁️ <b>Cloud Computing Concepts</b> <br>
+⚙️ <b>DevOps Practices & Automation</b> <br>
+🔁 <b>Version Control (Git)</b> <br>
+🐧 <b>Linux Administration</b> <br>
+🔄 <b>CI/CD Implementation</b> <br>
+🐳 <b>Containerization (Docker, Kubernetes)</b>
+
+</p>
+
+<br>
+
+
+<h2 align="center">📊 LIVE SYSTEM METRICS</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shuayeb-X&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&bg_color=0f172a" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shuayeb-X&theme=tokyonight&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&background=0f172a" />
+
+</p>
+
+
+## 📊 GitHub Stats
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuayeb-hasan&layout=compact&theme=tokyonight)
+
