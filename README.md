@@ -53,13 +53,20 @@
 </p>
 
 ## 🚀 Skills & Technologies
+
 💻 Languages: C, C++, Python, Java 
+
 🌐 Web Technologies: HTML, CSS  
+
 🗄 Database: MySQL  
+
 🌐 Networking: TCP/IP, OSI Model, Subnetting, DNS, HTTP/HTTPS, Routing & Switching  
+
 🔐 Security Tools: Nmap, Wireshark, Linux CLI, Basic Cryptography & Hashing  
-🛠 Dev Tools: Git, GitHub, GitLab, Jenkins  
+🛠 Dev Tools: Git, GitHub, GitLab, Jenkins 
+
 🐧 Operating System: Linux  
+
 ## ⚡ DevOps Stack
 
 <p align="">
