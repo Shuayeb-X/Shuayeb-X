@@ -66,9 +66,9 @@
 </a>
 
 <a href="https://linkedin.com/in/shuayeb-hasan">
-  <img src="https://cdn.simpleicons.org/linkedin"
-       width="36"
-       style="border-radius:50%; padding:8px; margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="30"
+       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
 </a>
 
 <a href="https://youtube.com/@yourchannel">
