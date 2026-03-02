@@ -45,42 +45,30 @@
 🌱Currently expanding my expertise in automation, cloud platforms, and modern DevOps practices. 
 
 💡 I believe in continuous learning and hands-on practice, continuously expanding my skills in cloud technologies and DevOps tools through real-world projects.
-<p align="">
+<p align="center">
 
 <a href="https://github.com/yourusername">
-  <img src="https://cdn.simpleicons.org/github/181717"
-       width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+  <img src="https://cdn.simpleicons.org/github" width="30" />
 </a>
 
 <a href="https://instagram.com/yourprofile">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F"
-       width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+  <img src="https://cdn.simpleicons.org/instagram" width="30" />
 </a>
 
 <a href="https://linkedin.com/in/shuayeb-hasan">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-       width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+  <img src="https://cdn.simpleicons.org/linkedin" width="30" />
 </a>
 
 <a href="https://youtube.com/@yourchannel">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000"
-       width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+  <img src="https://cdn.simpleicons.org/youtube" width="30" />
 </a>
 
 <a href="https://gitlab.com/yourusername">
-  <img src="https://cdn.simpleicons.org/gitlab/FCA121"
-       width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+  <img src="https://cdn.simpleicons.org/gitlab" width="30" />
 </a>
 
 <a href="https://yourjenkinsdomain.com">
-  <img src="https://cdn.simpleicons.org/jenkins/D24939"
-       width="30"
-       style="background-color:#0f172a;padding:10px;border-radius:50%;border:2px solid #00f0ff;box-shadow:0 0 8px #00f0ff;margin:8px;" />
+  <img src="https://cdn.simpleicons.org/jenkins" width="30" />
 </a>
 
 </p>
