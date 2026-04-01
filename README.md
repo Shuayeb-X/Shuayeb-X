@@ -55,7 +55,7 @@
 
 ## 🚀 Skills & Technologies
 
-💻 Languages: C, C++, Python, Java 
+💻 Languages: C, C++,Java , Python, GO
 
 🌐 Web Technologies: HTML, CSS  
 
