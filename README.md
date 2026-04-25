@@ -2,7 +2,7 @@
   
 <p align="center">
 
-<!-- 🔴 PROFILE PICTURE -->
+<!-- 🔴 PROFILE PICTURE --> 
 <p align="center">
 
 <p align="center">
