@@ -1,6 +1,6 @@
 <!-- ================= PROFILE SECTION ================= -->
    
-<p align="center">
+<p align="center"> 
 
 <!-- 🔴 PROFILE PICTURE --> 
 <p align="center">
